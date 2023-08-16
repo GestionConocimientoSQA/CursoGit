@@ -1,4 +1,2 @@
 # Notas
-Este es un repositorio de pruebas
-
-prueba de code 2
+Este es un repositorio de pruebas, actualizado
