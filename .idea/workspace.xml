@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d62c98f-b396-468a-a520-cab5c0136d45" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/defaultpackage/tasks/Default2Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/defaultpackage/tasks/Default2Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/defaultpackage/tasks/DeafultTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/defaultpackage/tasks/DeafultTask.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="develop" />
-                    <option name="lastUsedInstant" value="1692723477" />
+                    <option name="lastUsedInstant" value="1692724112" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="main" />

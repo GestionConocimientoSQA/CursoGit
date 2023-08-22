@@ -14,6 +14,7 @@ import net.serenitybdd.screenplay.Task;
 public class DeafultTask implements Task {
     @Override
     public <T extends Actor> void performAs(T actor) {
+        actor.attemptsTo();
 
     }
 }
