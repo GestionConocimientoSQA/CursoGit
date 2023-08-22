@@ -21,4 +21,8 @@ public class BD {
     public void setInfo(){
         
     }
+
+    public void convert(){
+
+    }
 }
