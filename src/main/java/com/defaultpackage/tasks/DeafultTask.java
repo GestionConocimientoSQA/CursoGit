@@ -12,6 +12,12 @@ import net.serenitybdd.screenplay.Task;
  * @Fecha: --o--
  */
 public class DeafultTask implements Task {
+    private final String variable1;
+
+    public DeafultTask(String variable1) {
+        this.variable1 = variable1;
+    }
+
     @Override
     public <T extends Actor> void performAs(T actor) {
 
