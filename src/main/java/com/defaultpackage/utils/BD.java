@@ -17,4 +17,12 @@ public class BD {
     public void getInfo(){
 
     }
+
+    public void setInfo(){
+
+    }
+
+    public void convert(){
+
+    }
 }
