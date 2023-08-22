@@ -13,4 +13,8 @@ public class BD {
     public static void nameMethod(){
 
     }
+
+    public void getInfo(){
+
+    }
 }
