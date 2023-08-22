@@ -25,4 +25,8 @@ public class BD {
     public void convert(){
 
     }
+
+    public void otroMetodo(){
+
+    }
 }
