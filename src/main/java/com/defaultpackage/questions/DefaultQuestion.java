@@ -12,6 +12,12 @@ import net.serenitybdd.screenplay.Question;
  * @Fecha: --o--
  */
 public class DefaultQuestion implements Question<Boolean> {
+    private final String name;
+
+    public DefaultQuestion(String name) {
+        this.name = name;
+    }
+
     @Override
     public Boolean answeredBy(Actor actor) {
         return null;
